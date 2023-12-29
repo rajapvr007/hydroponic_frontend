@@ -1,5 +1,5 @@
 export const Icons = [
-    { name: "logo-facebook", link: "#" },
+    { name: "logo-facebook", link: "https://web.whatsapp.com/" },
     { name: "logo-twitter", link: "#" },
     { name: "logo-github", link: "#" },
     { name: "logo-linkedin", link: "#" },
